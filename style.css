@@ -1,4 +1,6 @@
-aside {display: block;
+* {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS';
+    
+    aside {display: block;
 }
   
 nav {top: 0;
