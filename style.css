@@ -1,6 +1,13 @@
+aside {display: block;
+}
+  
+nav {top: 0;
+}
+
 .sidebar-container {
     height: 100%;
     position: fixed;
     padding: 60px;
     width: 180px;
 }
+
