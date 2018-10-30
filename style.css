@@ -1,9 +1,10 @@
-* {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS';
-    
-    aside {display: block;
+
+aside {
+    display: block;
 }
   
-nav {top: 0;
+nav {
+    top: 0;
 }
 
 .sidebar-container {
